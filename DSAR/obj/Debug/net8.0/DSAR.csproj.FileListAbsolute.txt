@@ -1,0 +1,11 @@
+C:\Users\jakub\source\repos\DSAR\DSAR\bin\Debug\net8.0\DSAR.deps.json
+C:\Users\jakub\source\repos\DSAR\DSAR\bin\Debug\net8.0\DSAR.dll
+C:\Users\jakub\source\repos\DSAR\DSAR\bin\Debug\net8.0\DSAR.pdb
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.AssemblyInfo.cs
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.dll
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\refint\DSAR.dll
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\DSAR.pdb
+C:\Users\jakub\source\repos\DSAR\DSAR\obj\Debug\net8.0\ref\DSAR.dll
