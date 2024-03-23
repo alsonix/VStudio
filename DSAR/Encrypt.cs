@@ -11,7 +11,7 @@ namespace DSAR
     {
         public static string GetSuccessMessage()
         {
-            return "DLL LOAD SUCCESSFUL";
+            return "DLL LOAD SUCCESS";
         }
     }
 }
