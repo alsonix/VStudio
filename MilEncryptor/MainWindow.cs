@@ -205,7 +205,7 @@ namespace MilEncryptor
 
             if (SelectedFileToEncrypt.ShowDialog() == DialogResult.OK)
             {
-                
+                // Logic for 'Datafile' type.
             }
         }
 
